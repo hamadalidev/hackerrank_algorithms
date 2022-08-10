@@ -5,3 +5,4 @@ Solved hackerrank algorithms
 2. simple array sum
 3. compare the triplets
 4. a very big sum
+5. diagonal difference
