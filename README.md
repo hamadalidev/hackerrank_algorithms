@@ -6,3 +6,4 @@ Solved hackerrank algorithms
 3. compare the triplets
 4. a very big sum
 5. diagonal difference
+6. plus minus
