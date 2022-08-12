@@ -7,3 +7,4 @@ Solved hackerrank algorithms
 4. a very big sum
 5. diagonal difference
 6. plus minus
+7. staircase
