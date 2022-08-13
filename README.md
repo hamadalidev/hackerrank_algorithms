@@ -8,3 +8,4 @@ Solved hackerrank algorithms
 5. diagonal difference
 6. plus minus
 7. staircase
+8. mini max sum
