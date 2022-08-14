@@ -9,3 +9,4 @@ Solved hackerrank algorithms
 6. plus minus
 7. staircase
 8. mini max sum
+9. birthday cake candles
