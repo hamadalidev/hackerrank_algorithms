@@ -10,3 +10,4 @@ Solved hackerrank algorithms
 7. staircase
 8. mini max sum
 9. birthday cake candles
+10. time-conversion
