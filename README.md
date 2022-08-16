@@ -11,3 +11,4 @@ Solved hackerrank algorithms
 8. mini max sum
 9. birthday cake candles
 10. time-conversion
+11. grading
